@@ -1,0 +1,37 @@
+["packagediphone"] = {
+    label = "Packaged Iphone",
+    weight = 1,
+    stack = true,
+    close = true,
+},
+["plasticwrap"] = {
+    label = "Plastic Wrap",
+    weight = 1,
+    stack = true,
+    close = true,
+},
+YOU PROB ALREADY HAVE THIS FR BUT ITS COOL JUST DONT PUT IT HERE <>
+ ["iphone"] =     {  
+    label = "Iphone",
+    weight = 1,
+    stack = true,
+    close = true,
+},
+["phoneearphones"] = {
+    label = "Phone Earphones",
+    weight = 1,
+    stack = true,
+    close = true,
+},
+["phonecharger"] = {
+    label = "Phone Charger",
+    weight = 1,
+    stack = true,
+    close = true,
+},
+["phoneboxtrash"] = {
+    label = "Phone Box Trash",
+    weight = 1,
+    stack = true,
+    close = true,
+},
