@@ -1,0 +1,5 @@
+Go into ox_inventory
+Look inside of item.txt
+  And put those inside of your items.lua file in ox_inventory
+Then go into the imgs file in my script and take all of those imgs and drop them into your ox_inventory/web/imgs
+  NOTE!!!! IF YOU ALREADY HAVE IPHONE ITEM DO NOT PUT iphone.png INTO THE IMGS FOLDER ALSO DO NOT!! PUT IT IN THE items.lua FILES!
